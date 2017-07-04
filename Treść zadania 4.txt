@@ -1,0 +1,1 @@
+Napisaæ program w Javie, który opublikuje XML-a z przyk³adu excercise-1.xml na JMS-owy topic Example.Library.Publication. Jako serwer JMS mo¿na u¿yæ Apache ActiveMQ.
